@@ -39,6 +39,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## Contribuições 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lf-all/lf-all/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lf-all/lf-all/output/github-snake.svg" />
+  <img alt="Snake animation das contribuições" src="https://raw.githubusercontent.com/lf-all/lf-all/output/github-snake.svg" />
+</picture>
+
 # Stats ✨
 
 <p align="center">
