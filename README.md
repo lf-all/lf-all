@@ -1,26 +1,55 @@
-# Olá, Sou Luiz Alves !
-## Hello, Devs e bem vindos ao meu perfil do GitHub 👋!!
+<h1 align="center">Olá, sou Luiz Alves! 👋</h1>
+
+<p align="center">
+  Hello, Devs! Bem-vindos ao meu perfil do GitHub 🚀
+</p>
+---
+
+## Sobre mim 👨‍💻
+
+- 🎓**Análise e Desenvolvimento de Sistemas**
+- 🗄️ Atuação prática com **SQL Server (T-SQL)**
+- ⚙️ **C# / .NET 8**
+- ☁️ Certificado **Oracle Cloud Infrastructure Foundations Associate**
+- 🌱 Estudando Python (Data Science), front-end e DevOps
+- 🌐 Portfólio: [sobrelfall.vercel.app](https://sobrelfall.vercel.app/)
 
 ## Ferramentas e Tecnologias 🛠
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"  width="40" height="40" />
+**Banco de dados**
 
-          
-<h2> Stats ✨  </h2>
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lf-all&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lf-all&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![snake gif](https://github.com/lf-all/lf-all/blob/output/github-snake.svg)
+**Desenvolvimento**
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge&logo=avaloniaui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Contatos 📩 :
+**Dados e DevOps**
 
-<div>
-<a href = "mailto:=lfalves@hotmail.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="http://www.linkedin.com/in/lfall" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+# Stats ✨
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/lf-all?style=for-the-badge&logo=github&label=Seguidores" />
+  <img src="https://komarev.com/ghpvc/?username=lf-all&style=for-the-badge&label=Visitas" />
+</p>
+
+## Contatos 📩
+
+<p>
+  <a href="https://www.linkedin.com/in/lfall"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lfalves@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://sobrelfall.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
